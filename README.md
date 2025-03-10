@@ -1,10 +1,5 @@
 <h2 align="left">Hi! My name is Gabriel, I'm a student of Systems Analysis and Development. My main programming language is, Python for data science and back-end programming. I love learning new things and everything that involves technology. I'm from Brazil and my biggest dream is to improve people's lives through technology.</h2>
 
-###
-
-<img align="right" height="150" src=""  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
