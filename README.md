@@ -36,10 +36,8 @@
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 ---
