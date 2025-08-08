@@ -1,19 +1,12 @@
 # 🧑‍💻 About Me:
 🎓 Computer Science student focused on **Data Science**.  
-🚀 Always seeking to improve my skills to create positive impacts in people's lives.  
+🚀 Always seeking to improve my skills to create positive impacts in people's lives. 
 
 ---
 
-## 📚 Education & Courses:
-- 🏆 **Instituto Caldeira - Geração Caldeira (Concluído 2024)**
-- **Lógica de Programação: Praticando com Desafios** - (https://cursos.alura.com.br/user/gabrielsilva-8850/course/logica-programacao-praticando-desafios/certificate)
-- **Git e GitHub: Compartilhando e Colaborando em Projetos** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/git-github-compartilhando-colaborando-projetos/certificate)
-- **Python: Aplicando a Orientação à Objeto - POO** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/python-aplicando-orientacao-objetos/certificate)
-- **Python: Data Science** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
-- 🏆 **ONE - Oracle Next Education (2025)**
-- **Modelagem de Dados: Construindo o Modelo Físico** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/modelagem-dados-construindo-modelo-fisico/certificate)
-- **Numpy: Análise Numérica Eficiente com Python** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/numpy-analise-numerica-eficiente-pythons/certificate)
-- **Pandas: Transformação e Manipulação de Dados** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/pandas-transformacao-manipulacao-dados/certificate)
+## 📬 Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrodri11/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsilva.8850@gmail.com)
 
 ---
 
@@ -30,18 +23,24 @@
 
 ---
 
-## 📬 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrodri11/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsilva.8850@gmail.com)
+## 📚 Education & Courses:
+- 🏆 **Instituto Caldeira - Geração Caldeira (Concluído 2024)**
+- **Lógica de Programação: Praticando com Desafios** - (https://cursos.alura.com.br/user/gabrielsilva-8850/course/logica-programacao-praticando-desafios/certificate)
+- **Git e GitHub: Compartilhando e Colaborando em Projetos** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/git-github-compartilhando-colaborando-projetos/certificate)
+- **Python: Aplicando a Orientação à Objeto - POO** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/python-aplicando-orientacao-objetos/certificate)
+- **Python: Data Science** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
+- 🏆 **ONE - Oracle Next Education (2025)**
+- **Modelagem de Dados: Construindo o Modelo Físico** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/modelagem-dados-construindo-modelo-fisico/certificate)
+- **Numpy: Análise Numérica Eficiente com Python** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/numpy-analise-numerica-eficiente-pythons/certificate)
+- **Pandas: Transformação e Manipulação de Dados** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/pandas-transformacao-manipulacao-dados/certificate)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ---
 
@@ -49,11 +48,5 @@
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 ![GitHub Stats](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
 
-
----
-
-## 🐍 Snake Animation:
-![snake gif](https://github.com/biellrodri/biellrodri/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/biellrodri/biellrodri/blob/output/snake.svg)
 
 
