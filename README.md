@@ -46,7 +46,7 @@
 
 ## 🏆 Badges:
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![GitHub Stats](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
+![GitHub Yolo](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 
 
 
