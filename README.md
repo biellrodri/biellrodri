@@ -36,8 +36,10 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&hide_border=true&v=2&cache_seconds=3600)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&hide_border=true&v=2&cache_seconds=3600)
+
 
 ---
 
