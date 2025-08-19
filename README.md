@@ -33,11 +33,12 @@
 - **Modelagem de Dados: Construindo o Modelo Físico** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/modelagem-dados-construindo-modelo-fisico/certificate)
 - **Numpy: Análise Numérica Eficiente com Python** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/numpy-analise-numerica-eficiente-pythons/certificate)
 - **Pandas: Transformação e Manipulação de Dados** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/pandas-transformacao-manipulacao-dados/certificate)
+- **Estatística com Python: Resumindo e Analisando Dados** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/estatistica-python-resumindo-analisando-dados/certificate)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&hide_border=true&v=5&cache_seconds=3600)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&hide_border=true&v=5&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&hide_border=true&v=6&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&hide_border=true&v=6&cache_seconds=3600)
 
 
 ---
