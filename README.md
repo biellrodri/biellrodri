@@ -22,9 +22,20 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## Certification
 
-![OCI25FNDCFA (1)](https://github.com/user-attachments/assets/ee2acd25-cbbd-4d0b-9751-041fa95435b5)
+<div align="center">
+  <a href="https://github.com/biellrodri">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&langs_count=8"/>
+  </a>
+</div>
+
+---
+
+
+---
+🏅 Certifications
+<p align="center"> <img src="https://github.com/user-attachments/assets/ee2acd25-cbbd-4d0b-9751-041fa95435b5" height="200" alt="Oracle Cloud Infrastructure 2025 Badge"/> </p> <p align="center"> <strong>Oracle Cloud Infrastructure 2025 Certified</strong><br> Conquistado por meio do programa <strong>#ONEOracleNextEducation</strong> </p>
 
 ---
 
