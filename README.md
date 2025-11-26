@@ -23,7 +23,7 @@
 
 ---
 🏅 Certifications
-<p align="center"> <img src="https://github.com/user-attachments/assets/ee2acd25-cbbd-4d0b-9751-041fa95435b5" height="200" alt="Oracle Cloud Infrastructure 2025 Badge"/> </p> <p align="center"> <strong>Oracle Cloud Infrastructure 2025 Certified</strong><br> Conquistado por meio do programa <strong>#ONEOracleNextEducation</strong> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/ee2acd25-cbbd-4d0b-9751-041fa95435b5" height="200" alt="Oracle Cloud Infrastructure 2025 Badge"/> </p> <p align="center"> <strong>Oracle Cloud Infrastructure 2025 Certified</strong><br> </p>
 
 ---
 
