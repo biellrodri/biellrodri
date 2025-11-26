@@ -23,7 +23,9 @@
 
 ---
 ## Certification
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=23A517BD53F4DD4312D4E5079E8BEDF3FAF0656725D72EE3ACAC64B975A5FC66
+
+![OCI25FNDCFA (1)](https://github.com/user-attachments/assets/ee2acd25-cbbd-4d0b-9751-041fa95435b5)
+
 ---
 
 ## 📚 Education & Courses:
