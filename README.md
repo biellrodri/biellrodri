@@ -22,9 +22,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## Certification
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=23A517BD53F4DD4312D4E5079E8BEDF3FAF0656725D72EE3ACAC64B975A5FC66
+---
 
 ## 📚 Education & Courses:
-- 🏆 **Instituto Caldeira - Geração Caldeira (Concluído 2024)**
+- 🏆 **Instituto Caldeira - Geração Caldeira (2024)**
 - **Lógica de Programação: Praticando com Desafios** - (https://cursos.alura.com.br/user/gabrielsilva-8850/course/logica-programacao-praticando-desafios/certificate)
 - **Git e GitHub: Compartilhando e Colaborando em Projetos** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/git-github-compartilhando-colaborando-projetos/certificate)
 - **Python: Aplicando a Orientação à Objeto - POO** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/python-aplicando-orientacao-objetos/certificate)
@@ -37,8 +40,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&hide_border=true&v=7&cache_seconds=3600)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&hide_border=true&v=7&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&hide_border=true&v=8&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&hide_border=true&v=8&cache_seconds=3600)
 
 
 ---
