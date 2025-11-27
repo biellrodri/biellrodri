@@ -20,6 +20,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+
+<div align="center">
+  <a href="https://github.com/biellrodri">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&langs_count=8"/>
+  </a>
+</div>
 
 ---
 🏅 Certifications
@@ -39,16 +47,7 @@
 - **Pandas: Transformação e Manipulação de Dados** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/pandas-transformacao-manipulacao-dados/certificate)
 - **Estatística com Python: Resumindo e Analisando Dados** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/estatistica-python-resumindo-analisando-dados/certificate)
 
----
 
-<div align="center">
-  <a href="https://github.com/biellrodri">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&langs_count=8"/>
-  </a>
-</div>
-
----
 
 
 
