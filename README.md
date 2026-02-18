@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+sou+o+Gabriel+Rodrigues;Back-end+Developer+|+Python&center=false&size=22&color=00C2FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Im+Gabriel+Rodrigues;Back-end+Developer+|+Python&center=false&size=22&color=00C2FF">
   </a>
 </h1>
 
@@ -15,12 +15,10 @@
 ## 🌟 Featured Project
 
 ### 🚀 Polaris – AI Microservice for Sentiment Analysis
-Microserviço RESTful desenvolvido com **FastAPI**, **Machine Learning** e **Docker**, capaz de classificar textos em:
-- Positivo
-- Neutro
-- Negativo
+Microserviço backend completo desenvolvido durante o **Hackaton Oracle** usando **Python**, **FastAPI** e **Docker**.  
+O Polaris classifica textos em sentimentos (positivo, neutro ou negativo) por meio de modelos de Machine Learning.
 
-**Tech stack:**
+**Tech Stack:**
 - Python
 - FastAPI
 - Scikit-learn
@@ -28,8 +26,9 @@ Microserviço RESTful desenvolvido com **FastAPI**, **Machine Learning** e **Doc
 - Docker
 - GitHub Actions
 
-🔗 Repo: https://github.com/biellrodri/polaris  
-📄 Docs: https://github.com/biellrodri/polaris#readme  
+🔗 Repo: https://github.com/Hackaton-Oracle/polaris  
+📄 Docs: https://github.com/Hackaton-Oracle/polaris#readme
+
 
 ---
 
@@ -59,7 +58,7 @@ Microserviço RESTful desenvolvido com **FastAPI**, **Machine Learning** e **Doc
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=9&theme=tokyonight" />
 </p>
 
 <picture align="center">
