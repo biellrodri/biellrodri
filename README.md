@@ -15,12 +15,14 @@
 ## 🌟 Featured Project
 
 ### 🚀 Polaris – AI Microservice for Sentiment Analysis
-Full backend microservice developed during the Oracle Hackathon, using Python, FastAPI, and Docker.
-Polaris performs sentiment classification on text data (positive, neutral, or negative) using Machine Learning models.
+Enterprise ML solution for E-commerce combining Java microservices with Python-based AI for fast and accurate sentiment analysis.
 
 **Tech Stack:**
 - Python
+- Java
+- Spring Boot
 - FastAPI
+- PostgreSQL
 - Scikit-learn
 - TF-IDF
 - Docker
