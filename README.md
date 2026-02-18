@@ -57,9 +57,16 @@ Polaris performs sentiment classification on text data (positive, neutral, or ne
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Status Github </b>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=9&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=8&theme=tokyonight"
+    height="180"
+  />
 </p>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake-dark.svg">
