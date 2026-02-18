@@ -15,8 +15,8 @@
 ## 🌟 Featured Project
 
 ### 🚀 Polaris – AI Microservice for Sentiment Analysis
-Microserviço backend completo desenvolvido durante o **Hackaton Oracle** usando **Python**, **FastAPI** e **Docker**.  
-O Polaris classifica textos em sentimentos (positivo, neutro ou negativo) por meio de modelos de Machine Learning.
+Full backend microservice developed during the Oracle Hackathon, using Python, FastAPI, and Docker.
+Polaris performs sentiment classification on text data (positive, neutral, or negative) using Machine Learning models.
 
 **Tech Stack:**
 - Python
@@ -84,11 +84,15 @@ O Polaris classifica textos em sentimentos (positivo, neutro ou negativo) por me
 
 - 🏆 Instituto Caldeira - Geração Caldeira (2024)
 - 🏆 ONE - Oracle Next Education (2025)
-- Modelagem de Dados – Alura
-- Git e GitHub – Alura
-- Python OOP – Alura
-- Pandas & NumPy – Alura
-- Estatística com Python – Alura
+
+**Core Topics:**
+- Data Modeling
+- Statistics with Python
+- Pandas & NumPy
+- Object-Oriented Programming with Python
+- Git & GitHub
+- SQL Fundamentals
+- Machine Learning Fundamentals
 
 
 
