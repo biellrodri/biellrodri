@@ -67,13 +67,6 @@ Polaris performs sentiment classification on text data (positive, neutral, or ne
   />
 </p>
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## 🏅 Certifications
@@ -100,6 +93,14 @@ Polaris performs sentiment classification on text data (positive, neutral, or ne
 - Git & GitHub
 - SQL Fundamentals
 - Machine Learning Fundamentals
+
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
