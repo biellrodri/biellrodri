@@ -1,51 +1,96 @@
-# 🧑‍💻 About Me:
-🎓 Computer Science student focused on **Data Science**.  
-🚀 Always seeking to improve my skills to create positive impacts in people's lives. 
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+sou+o+Gabriel+Rodrigues;Back-end+Developer+|+Python&center=false&size=22&color=00C2FF">
+  </a>
+</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## 🧑‍💻 About Me
+🎓 Computer Science student focused on **Back-end Development with Python**.  
+🚀 Passionate about building APIs, automations and scalable systems using modern technologies.
 
 ---
 
-## 📬 Contact:
+## 🌟 Featured Project
+
+### 🚀 Polaris – AI Microservice for Sentiment Analysis
+Microserviço RESTful desenvolvido com **FastAPI**, **Machine Learning** e **Docker**, capaz de classificar textos em:
+- Positivo
+- Neutro
+- Negativo
+
+**Tech stack:**
+- Python
+- FastAPI
+- Scikit-learn
+- TF-IDF
+- Docker
+- GitHub Actions
+
+🔗 Repo: https://github.com/biellrodri/polaris  
+📄 Docs: https://github.com/biellrodri/polaris#readme  
+
+---
+
+## 💻 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📬 Contact
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrodri11/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsilva.8850@gmail.com)
 
 ---
 
-## 💻 Skills & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Status Github </b>
 
-<div align="center">
-  <a href="https://github.com/biellrodri">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&theme=tokyonight&langs_count=8"/>
-  </a>
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
----
-🏅 Certifications
-<p align="center"> <img src="https://github.com/user-attachments/assets/ee2acd25-cbbd-4d0b-9751-041fa95435b5" height="200" alt="Oracle Cloud Infrastructure 2025 Badge"/> </p> <p align="center"> <strong>Oracle Cloud Infrastructure 2025 Certified</strong><br> </p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## 📚 Education & Courses:
-- 🏆 **Instituto Caldeira - Geração Caldeira (2024)**
-- **Lógica de Programação: Praticando com Desafios** - (https://cursos.alura.com.br/user/gabrielsilva-8850/course/logica-programacao-praticando-desafios/certificate)
-- **Git e GitHub: Compartilhando e Colaborando em Projetos** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/git-github-compartilhando-colaborando-projetos/certificate)
-- **Python: Aplicando a Orientação à Objeto - POO** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/python-aplicando-orientacao-objetos/certificate)
-- **Python: Data Science** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
-- 🏆 **ONE - Oracle Next Education (2025)**
-- **Modelagem de Dados: Construindo o Modelo Físico** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/modelagem-dados-construindo-modelo-fisico/certificate)
-- **Numpy: Análise Numérica Eficiente com Python** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/numpy-analise-numerica-eficiente-pythons/certificate)
-- **Pandas: Transformação e Manipulação de Dados** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/pandas-transformacao-manipulacao-dados/certificate)
-- **Estatística com Python: Resumindo e Analisando Dados** (https://cursos.alura.com.br/user/gabrielsilva-8850/course/estatistica-python-resumindo-analisando-dados/certificate)
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee2acd25-cbbd-4d0b-9751-041fa95435b5" height="200"/>
+</p>
+<p align="center">
+  <strong>Oracle Cloud Infrastructure 2025 Certified</strong>
+</p>
+
+---
+
+## 📚 Education & Courses
+
+- 🏆 Instituto Caldeira - Geração Caldeira (2024)
+- 🏆 ONE - Oracle Next Education (2025)
+- Modelagem de Dados – Alura
+- Git e GitHub – Alura
+- Python OOP – Alura
+- Pandas & NumPy – Alura
+- Estatística com Python – Alura
+
 
 
 
