@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 🎓 Computer Science student focused on **Back-end Development with Python**.  
-🚀 Passionate about building APIs, automations and scalable systems using modern technologies.
+💻 Tech enthusiast | Always learning, always building, always evolving
 
 ---
 
