@@ -99,9 +99,9 @@ Enterprise ML solution for E-commerce combining Java microservices with Python-b
 ---
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://github.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biellrodri/biellrodri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
+  <img align="center" src="https://raw.githubusercontent.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
 </picture>
 
 
