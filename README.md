@@ -60,11 +60,11 @@ Enterprise ML solution for E-commerce combining Java microservices with Python-b
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-theta-silk.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=8&theme=tokyonight"
+    src="https://github-readme-stats-theta-silk.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=8&theme=tokyonight"
     height="180"
   />
 </p>
