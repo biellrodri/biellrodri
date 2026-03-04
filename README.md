@@ -1,14 +1,18 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Gabriel+Rodrigues;Back-end+Developer+|+Python&center=false&size=22&color=00C2FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Gabriel+Rodrigues;Backend+Developer+|+Python+&+Cloud;Building+Scalable+Systems&center=false&size=22&color=00C2FF">
   </a>
 </h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
 ## 🧑‍💻 About Me
-🎓 Computer Science student focused on **Back-end Development with Python**.  
-💻 Tech enthusiast | Always learning, always building, always evolving
+
+Backend Developer focused on building scalable APIs and data-driven solutions using **Python, FastAPI, and Django**.
+
+Currently deepening my knowledge in **Cloud Computing (AWS & OCI)** and **Data Engineering fundamentals**, with hands-on experience in microservices architecture, REST APIs, and Machine Learning integration.
+
+I enjoy transforming complex problems into structured, efficient, and production-ready solutions.
 
 ---
 
@@ -22,83 +26,74 @@
 ## 🌟 Featured Project
 
 ### 🚀 Polaris – AI Microservice for Sentiment Analysis
-Enterprise ML solution for E-commerce combining Java microservices with Python-based AI for fast and accurate sentiment analysis.
+
+Enterprise-oriented ML solution combining Java microservices with Python-based AI for fast and accurate sentiment analysis in E-commerce environments.
 
 **Tech Stack:**
 - Python
+- FastAPI
 - Java
 - Spring Boot
-- FastAPI
 - PostgreSQL
 - Scikit-learn
-- TF-IDF
 - Docker
 - GitHub Actions
 
 🔗 Repo: https://github.com/Hackaton-Oracle/polaris  
-📄 Docs: https://github.com/Hackaton-Oracle/polaris#readme
-
+📄 Documentation: https://github.com/Hackaton-Oracle/polaris#readme
 
 ---
 
-## 💻 Skills & Tools
+## ☁️ Cloud & Backend Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Status Github </b>
+## 🏅 Cloud Certifications
+
+<p align="center">
+
+[![Oracle Cloud Infrastructure 2025](https://img.shields.io/badge/Oracle-OCI%202025%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](LINK_DA_SUA_CERTIFICACAO_ORACLE)
+
+[![AWS Cloud Fundamentals](https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://awstreinabrasil.ontidwit.com/badge?id=14d0ef98-0f0d-4793-a5a5-b906a7ec4edb)
+
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats-theta-silk.vercel.app/api?username=biellrodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="180"
+    height="170"
   />
   <img
     src="https://github-readme-stats-theta-silk.vercel.app/api/top-langs/?username=biellrodri&layout=compact&langs_count=8&theme=tokyonight"
-    height="180"
+    height="170"
   />
 </p>
 
 ---
 
-## 🏅 Certifications & Badges
+## 📚 Education & Continuous Learning
 
-<p align="center">
+- Oracle Next Education (Data Science & AI)
+- Instituto Caldeira – Machine Learning & Data Foundations
 
-<a href="LINK_ORACLE">
-  <img src="URL_IMAGEM_ORACLE" height="170"/>
-</a>
-
-<a href="https://awstreinabrasil.ontidwit.com/badge?id=14d0ef98-0f0d-4793-a5a5-b906a7ec4edb">
-  <img src="URL_IMAGEM_AWS" height="170"/>
-</a>
-
-</p>
-
----
-
-## 📚 Education & Courses
-
-- 🏆 Instituto Caldeira - Geração Caldeira (2024)
-- 🏆 ONE - Oracle Next Education (2025)
-
-**Core Topics:**
+**Core Knowledge:**
 - Data Modeling
 - Statistics with Python
-- Pandas & NumPy
-- Object-Oriented Programming with Python
-- Git & GitHub
-- SQL Fundamentals
+- REST APIs
+- Clean Architecture
+- SQL & Relational Databases
 - Machine Learning Fundamentals
 
 ---
@@ -108,11 +103,3 @@ Enterprise ML solution for E-commerce combining Java microservices with Python-b
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
   <img align="center" src="https://raw.githubusercontent.com/biellrodri/biellrodri/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
-
-
-
