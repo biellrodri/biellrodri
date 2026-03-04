@@ -71,13 +71,19 @@ Enterprise ML solution for E-commerce combining Java microservices with Python-b
 
 ---
 
-## ☁️ Cloud Certifications
+## 🏅 Certifications & Badges
 
-### Oracle
-[![Oracle Cloud Infrastructure 2025](https://img.shields.io/badge/Oracle-OCI%202025%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](LINK_ORACLE)
+<p align="center">
 
-### AWS
-[![AWS Cloud Fundamentals](https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://awstreinabrasil.ontidwit.com/badge?id=14d0ef98-0f0d-4793-a5a5-b906a7ec4edb)
+<a href="LINK_ORACLE">
+  <img src="URL_IMAGEM_ORACLE" height="170"/>
+</a>
+
+<a href="https://awstreinabrasil.ontidwit.com/badge?id=14d0ef98-0f0d-4793-a5a5-b906a7ec4edb">
+  <img src="URL_IMAGEM_AWS" height="170"/>
+</a>
+
+</p>
 
 ---
 
