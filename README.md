@@ -60,7 +60,7 @@ Enterprise-oriented ML solution combining Java microservices with Python-based A
 
 <p align="center">
 
-[![Oracle Cloud Infrastructure 2025](https://img.shields.io/badge/Oracle-OCI%202025%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](LINK_DA_SUA_CERTIFICACAO_ORACLE)
+[![Oracle Cloud Infrastructure 2025](https://img.shields.io/badge/Oracle-OCI%202025%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=23A517BD53F4DD4312D4E5079E8BEDF3FAF0656725D72EE3ACAC64B975A5FC66)
 
 [![AWS Cloud Fundamentals](https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://awstreinabrasil.ontidwit.com/badge?id=14d0ef98-0f0d-4793-a5a5-b906a7ec4edb)
 
