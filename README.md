@@ -71,7 +71,7 @@ Enterprise ML solution for E-commerce combining Java microservices with Python-b
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Badges
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee2acd25-cbbd-4d0b-9751-041fa95435b5" height="200"/>
@@ -80,12 +80,7 @@ Enterprise ML solution for E-commerce combining Java microservices with Python-b
   <strong>Oracle Cloud Infrastructure 2025 Certified</strong>
 </p>
 
-<p align="left">
-  <img src="(https://awstreinabrasil.ontidwit.com/badge?id=14d0ef98-0f0d-4793-a5a5-b906a7ec4edb)" height="200"/>
-</p>
-<p align="center">
-  <strong>AWS Cloud Fundamentals 2025 Certified</strong>
-</p>
+[![AWS Cloud Fundamentals](https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?logo=amazonaws&logoColor=white)](https://awstreinabrasil.ontidwit.com/badge?id=14d0ef98-0f0d-4793-a5a5-b906a7ec4edb)
 
 ---
 
